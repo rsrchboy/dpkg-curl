@@ -1,3 +1,9 @@
+curl (7.35.0-1~12.04~ppa2) precise; urgency=low
+
+  * Build for precise.
+
+ -- Chris Weyl <cweyl@alumni.drew.edu>  Sat, 01 Mar 2014 19:07:12 -0800
+
 curl (7.35.0-1~12.04~ppa1) precise; urgency=low
 
   * Build for precise.
